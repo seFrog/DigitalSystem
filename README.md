@@ -1,6 +1,6 @@
 # DigitalSystem
 세종대학교 2학년 디지털시스템 프로젝트
-# 🔐 Logisim Digital Doorlock System
+# 🔐 Logisim Digital PassWord System
 
 ## 🗂️ 주요 구성요소
 
